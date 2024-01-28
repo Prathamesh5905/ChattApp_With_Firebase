@@ -1,0 +1,1 @@
+ D:\\group_chatapp_flutter_firebase-main\\.dart_tool\\flutter_build\\2aca90004fbc1d09af98eb2c260708a5\\native_assets.yaml: 
